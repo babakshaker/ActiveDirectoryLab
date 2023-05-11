@@ -26,7 +26,7 @@ Download Windows Server 2019  <br/>
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="[https://i.imgur.com/nCIbXbg.png](https://imgur.com/6JKUFdm)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6JKUFdm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Confirm your selection:  <br/>
