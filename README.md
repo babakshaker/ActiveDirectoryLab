@@ -14,7 +14,7 @@
 
 - <b>Windows 10</b> (21H2)
 
-<h2Walk-through:</h2>
+<h2>Walk-through:</h2>
 
 <p align="center">
 Download VirtualBox: <br/>
@@ -29,22 +29,32 @@ Open VirtualBox <br/>
 <img src="https://i.imgur.com/6JKUFdm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Make a Virtual Machine <br/>
+<img src="https://i.imgur.com/rHf7DdO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup Windows Server 2018 Settings  <br/>
+<img src="https://i.imgur.com/7ucIP3S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<img src="https://i.imgur.com/jSaphQJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Check NIC IP Address  <br/>
+<img src="https://i.imgur.com/k42ne5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Setup The IP Address  <br/>
+<img src="https://i.imgur.com/d34FGGi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/k42ne5W.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 </p>
-
+Add Roles and Features  <br/>
+<img src="https://i.imgur.com/GM7SHFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Add Roles and Features  <br/>
+<img src="https://i.imgur.com/GM7SHFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
 <!--
  ```diff
 - text in red
