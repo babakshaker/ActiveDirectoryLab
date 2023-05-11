@@ -25,7 +25,7 @@ Download Windows Server 2019  <br/>
 <img src="https://i.imgur.com/5EezpwG.png" height="80%" width="80%" alt=""/>
 <br />
 <br />
-Enter the number of passes: <br/>
+Open VirtualBox <br/>
 <img src="https://i.imgur.com/6JKUFdm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
