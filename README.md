@@ -52,9 +52,21 @@ Setup The IP Address  <br/>
 Add Roles and Features  <br/>
 <img src="https://i.imgur.com/GM7SHFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
-Add Roles and Features  <br/>
-<img src="https://i.imgur.com/GM7SHFF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Open Active Directory Users and Computers  <br/>
+<img src="https://i.imgur.com/l1bNBo8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
+Make an Organizational Unit, Make a New User and Make it an Admin <br/>
+<img src="https://i.imgur.com/ivehsIi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+<img src="https://i.imgur.com/9YaDiU7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Add Roles and Features, check "Remote Work" and "Routing"  <br/>
+<img src="https://i.imgur.com/qPZHhET.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+Open Routing and Remote acces and Configure and Enable<br/>
+<img src="https://i.imgur.com/yJuCH1o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br/>
+
 <!--
  ```diff
 - text in red
